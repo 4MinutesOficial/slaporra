@@ -664,6 +664,8 @@ function d:CreateWindow(J)
             i6.BackgroundColor3=Color3.fromRGB(45,45,55)
             i6.BorderSizePixel=0
             i6.Text=i0
+            i6.PlaceholderText=i1
+            i6.TextColor3=e.i
             i6.PlaceholderColor3=e.j
             i6.TextSize=13
             i6.Font=e.o
